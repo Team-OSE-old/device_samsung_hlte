@@ -1,0 +1,27 @@
+[
+  {
+    "remote": "slim",
+    "repository": "device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "kk4.4"
+  },
+  {
+    "remote": "slim",
+    "repository": "device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "kk4.4"
+  },
+  {
+    "remote": "slim",
+    "repository": "device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "revision": "kk4.4"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_kernel_samsung_hlte",
+    "target_path": "kernel/samsung/hlte",
+    "revision":      "cm-11.0"
+  }
+]
+
