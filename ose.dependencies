@@ -1,33 +1,28 @@
 [
   {
-    "remote": "slim",
-    "repository": "device_qcom_common",
+    "repository": "SlimRoms/device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "kk4.4"
+    "branch": "kk4.4"
   },
   {
-    "remote": "slim",
-    "repository": "device_samsung_qcom-common",
+    "repository": "SlimRoms/device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "revision": "kk4.4"
+    "branch": "kk4.4"
   },
   {
-    "remote": "cm",
-    "repository": "android_device_samsung_msm8974-common",
+    "repository": "CyanogenMod/android_device_samsung_msm8974-common",
     "target_path": "device/samsung/msm8974-common",
-    "revision": "cm-11.0"
+    "branch": "cm-11.0"
   },
   {
-    "remote": "cm",
-    "repository": "android_kernel_samsung_hlte",
+    "repository": "CyanogenMod/android_kernel_samsung_hlte",
     "target_path": "kernel/samsung/hlte",
-    "revision":      "cm-11.0"
+    "branch":      "cm-11.0"
   },
   {
-    "remote": "tm",
-    "repository": "proprietary_vendor_samsung",
+    "repository": "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "revision": "cm-11.0"
+    "branch": "cm-11.0"
   }
 ]
 
